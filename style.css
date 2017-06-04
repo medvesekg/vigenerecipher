@@ -1,0 +1,36 @@
+body {
+    font-family: "Trebuchet MS";
+}
+
+.main {
+    text-align: center;
+}
+
+.opis {
+    display:block;
+    width: 70%;
+    margin: 10px auto;
+}
+
+#text-input {
+    height: 300px;
+}
+
+.key-input{
+    width: 50%;
+    margin: 5px auto;
+    text-align:center;
+}
+
+.submit-button {
+    width: 50%;
+    margin: 5px auto;
+}
+
+.form-row {
+    margin-top: 40px;
+}
+
+.form-check-label {
+    font-weight: normal;
+}
